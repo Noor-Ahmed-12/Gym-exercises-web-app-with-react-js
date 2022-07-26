@@ -2,7 +2,7 @@
 
 
 
-### After fresh installtion fresh react app with <b>create-react-app</b>. Now edit package.json file and replace DEPENDENCIES with the below code to run the error free app 
+### Install fresh react app with <span>create-react-app</span> to install the default packages of react. Now edit package.json file and replace DEPENDENCIES with the below code to run the error free app 
 ### code:
 <pre>
 "dependencies": {
@@ -18,7 +18,7 @@
     "react-scripts": "^2.1.3"
   },
   </pre>
-  ## Now Run this command on your terminal to install these above packages:
+  ### Then Run this command on your terminal to install these above dependencies:
  <pre> npm install --legacy-peer-deps </pre>
-  ## OR
+  ### OR
   <pre> yarn add --legacy-peer-deps</pre>
