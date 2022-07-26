@@ -1,6 +1,4 @@
-<p align="center">
-<img src = "https://github.com/Noor-Ahmed-12/Password-Manager/blob/66ea73dfc6be412117807649769b3dfe0f214021/img/password%20Manager.png">
-</p>
+![fitness react web app](https://user-images.githubusercontent.com/60597502/180904680-3ceba3e4-b8e2-4deb-a724-22731a849e91.png)
 
  # 😱 Features:
  <ul>
