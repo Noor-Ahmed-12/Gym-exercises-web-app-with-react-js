@@ -1,0 +1,48 @@
+const axios = require("axios");
+
+const options = {
+  method: 'GET',
+  url: 'https://exercisedb.p.rapidapi.com/exercises/bodyPart/%7BbodyPart%7D',
+  headers: {
+    'X-RapidAPI-Key': '06fabe01bbmsh190500788201173p15bdcejsn4b87b08dbe22',
+    'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com'
+  }
+};
+
+axios.request(options).then(function (response) {
+	console.log(response.data);
+}).catch(function (error) {
+	console.error(error);
+});
+
+
+
+
+
+fecth
+const options = {
+	method: 'GET',
+	headers: {
+		'X-RapidAPI-Key': '06fabe01bbmsh190500788201173p15bdcejsn4b87b08dbe22',
+		'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com'
+	}
+};
+
+fetch('https://exercisedb.p.rapidapi.com/exercises/bodyPart/%7BbodyPart%7D', options)
+	.then(response => response.json())
+	.then(response => console.log(response))
+	.catch(err => console.error(err));
+
+
+    const options = {
+	method: 'GET',
+	headers: {
+		'X-RapidAPI-Key': '06fabe01bbmsh190500788201173p15bdcejsn4b87b08dbe22',
+		'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com'
+	}
+};
+
+fetch('https://exercisedb.p.rapidapi.com/exercises/bodyPartList', options)
+	.then(response => response.json())
+	.then(response => console.log(response))
+	.catch(err => console.error(err));
