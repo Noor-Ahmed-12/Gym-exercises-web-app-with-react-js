@@ -26,7 +26,11 @@ ESLINT_NO_DEV_ERRORS=true
     <li> <a href="https://rapidapi.com/malaaddincelik/api/fitness-calculator/">BMI Calculator</a></li>
 </ul>
 
-# 📚 Frameworks, Platforms and Libraries
+# 📚 Languages, Frameworks, Platforms and Libraries
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![material-ui](https://img.shields.io/badge/material_ui-%231572B6.svg?style=for-the-badge&logo=material_ui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -56,7 +60,7 @@ ESLINT_NO_DEV_ERRORS=true
   <pre> yarn add --legacy-peer-deps</pre>
 ### At last run
   <pre> npm start</pre>
-  
+# 😈 Live <a href="https://nastech-fitness-tracking-exercises.netlify.app/">Demo</a>
  # :small_blue_diamond:connect with me for more amazing projects:
 [<img align="left" alt="Noor Ahmed Shaikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Noor Ahmed Shaikh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
